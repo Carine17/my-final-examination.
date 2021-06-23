@@ -1,0 +1,8 @@
+Name:Carine Granado Albaytar
+Course/Year: BSIT 2D
+Age: 20
+Sex: Female
+Date of Birth: February 28, 2001
+Place of Birth: Lapinig Magallanes, Sorsogon
+Civil Status: Single
+Nationality: Filipino
